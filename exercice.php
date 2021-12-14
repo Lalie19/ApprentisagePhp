@@ -14,10 +14,12 @@
         <h2>Les exercices en php</h2>
         <ol>
             <li>Premier exercice</li>
+            <li><a href="./exercice2.php">Exercice 2</a>Décoder des chaînes de caratère</li>
+            <li><a href="./exercice2correction.php">Correction exercice 2</a></li>
         </ol>
     </div>
     
 
-<script src="/JS/bootstrap.bundle.min.js"></script>
+<script src="/JS/bootstrap.min.js"></script>
 </body>
 </html>
