@@ -11,10 +11,20 @@
     <?php include("./partial/_navBar.php"); ?>
     <div class="container">
         <h1>Page de tst Php</h1>
-        <p>Php Test</p>
+        <pre>
+        Résultats php
+        =======================================
+            <?php 
+
+           ?>
+
+
+
+        =======================================
+        </pre>
     </div>
     
 
-<script src="/JS/bootstrap.bundle.min.js"></script>
+<script src="/JS/bootstrap.min.js"></script>
 </body>
 </html>
