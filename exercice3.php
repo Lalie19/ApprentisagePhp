@@ -47,8 +47,8 @@
         <p>résultat:
             <?php
             // TO DO
-            $texte ="bleu vert noir rouge jaune";
-            $tab1 = explode(" ", $texte);
+            $string ="bleu vert noir rouge jaune";
+            $tab1 = explode(" ", $string);
             array_unshift($tab1, "violet" );
 
             
