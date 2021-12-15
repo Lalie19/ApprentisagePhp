@@ -15,6 +15,6 @@
     </div>
     
 
-<script src="/JS/bootstrap.min.jss"></script>
+<script src="/JS/bootstrap.min.js"></script>
 </body>
 </html>
