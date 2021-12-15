@@ -14,8 +14,8 @@
         <h2>Les exercices en php</h2>
         <ol>
             <li>Premier exercice</li>
-            <li><a href="./exercice2.php">Exercice 2</a>Décoder des chaînes de caratère</li>
-            <li><a href="./exercice2correction.php">Correction exercice 2</a></li>
+            <li><a href="./exercice2.php">Exercice 2</a>Décoder des chaînes de caratère <a href="./exercice2correction.php">Correction exercice 2</a></li>
+            <li><a href="./exercice3.php">Exercice 3</a>Exercices sur les tableaux<a href="./exercice3correction.php">Correction exercice 3</a></li>
         </ol>
     </div>
     
