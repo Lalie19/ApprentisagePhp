@@ -20,8 +20,10 @@
 <COL span=28 width=20>
 <tr>
 <td borderColor=#ffffff></td>
-<td borderColor=#ffffff> </td><td style="text-align:center;" colSpan=26>Clé</td></tr><tr><td borderColor=#ffffff></td>
 <td borderColor=#ffffff> </td>
+<td style="text-align:center;" colSpan=26>Clé</td>
+<tr><td borderColor=#ffffff></td>
+<td borderColor=#ffffff></td>
 <td style="background-color: PaleVioletRed;"> A </td>
 <td style="background-color:PaleVioletRed;"> B </td>
 <td style="background-color:PaleVioletRed;"> C </td>

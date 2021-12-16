@@ -18,7 +18,7 @@
             <li><a href="./exercice3.php">Exercice 3</a>Exercices sur les tableaux<a href="./exercice3correction.php">Correction exercice 3</a></li>
             <li><a href="./exercice4.php">Exercice 4</a>Exercices sur les boucles</li>
             <a href="./tableauvigenere.php">Tableau Vigenere</a>Pour l'exercice 4
-            <li><a href="./exercice4.php">Exercice 4</a>Exercices sur les boucles<a href="./exercice3correction.php">Correction exercice 3</a></li>
+            <!-- <li><a href="./exercice4.php">Exercice 4</a>Exercices sur les boucles<a href="./exercice3correction.php">Correction exercice 3</a></li> -->
         </ol>
     </div>
     
