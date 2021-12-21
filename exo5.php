@@ -108,13 +108,13 @@ if ($encode || $decode) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="./CSS/bootstrap.css">
 
-    <title>Page vide!</title>
+    <title>Exerice 5</title>
 </head>
 
 <body>
-    <?php include("./partial/_navBar.php"); ?>
+<?php include("./partial/_navBar.php"); ?>
     <div class="container">
         <h3>Système d'encodage de vigenère</h3>
         <p>Vous pouvez entrer un message ou un code et la clé, ATTENTION en Majuscule</p>
@@ -146,7 +146,7 @@ if ($encode || $decode) {
             <input type="submit" class="btn btn-primary mt-3 mb-3" value="Vigenèriser">
         </form>
     </div>
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="./JS/bootstrap.min.js"></script>
 </body>
 
 </html>
