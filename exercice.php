@@ -20,7 +20,7 @@
             <a href="./tableauvigenere.php">Tableau Vigenere</a>Pour l'exercice 4
             <a href="./exo4.php">Exercice simple 4</a>
             <li><a href="./exercice5.php">Exercice 5</a>Formulaire</li>
-            <a href="./exo5.php">Exercice 5 final</a>
+            <a href="./exo5.php">Exercice 5 correction</a>
             <li><a href="./exercice6.php">Exercice 6</a>Boucle While</li>
         
         </ol>
