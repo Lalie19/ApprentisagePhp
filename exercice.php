@@ -13,12 +13,16 @@
         <h1>Les exercices</h1>
         <h2>Les exercices en php</h2>
         <ol>
-            <li>Premier exercice</li>
+            <li><a href="./exercicecour.php">Algo sur les tableaux</a>Premier exercice</li>
             <li><a href="./exercice2.php">Exercice 2</a>Décoder des chaînes de caratère <a href="./exercice2correction.php">Correction exercice 2</a></li>
             <li><a href="./exercice3.php">Exercice 3</a>Exercices sur les tableaux<a href="./exercice3correction.php">Correction exercice 3</a></li>
             <li><a href="./exercice4.php">Exercice 4</a>Exercices sur les boucles</li>
             <a href="./tableauvigenere.php">Tableau Vigenere</a>Pour l'exercice 4
-            <!-- <li><a href="./exercice4.php">Exercice 4</a>Exercices sur les boucles<a href="./exercice3correction.php">Correction exercice 3</a></li> -->
+            <a href="./exo4.php">Exercice simple 4</a>
+            <li><a href="./exercice5.php">Exercice 5</a>Formulaire</li>
+            <a href="./exo5.php">Exercice 5 final</a>
+            <li><a href="./exercice6.php">Exercice 6</a>Boucle While</li>
+        
         </ol>
     </div>
     
