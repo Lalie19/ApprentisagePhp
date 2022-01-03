@@ -20,6 +20,9 @@
         <li class="nav-item">
           <a class="nav-link active" href="/notes.php">Notes</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/aboutFunctions.php">JSP</a>
+        </li>
       </ul>
     
     </div>
